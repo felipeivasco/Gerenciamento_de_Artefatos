@@ -3,13 +3,14 @@ Sobre este repositório
 
 Este repositório foi criado como parte da atividade prática sobre Gestão de Configuração em projetos de software. Seu objetivo é armazenar e gerenciar artefatos essenciais para o desenvolvimento, incluindo:
 
-Requisitos de software
-Revisão e validação de requisitos
-Documentações adjacentes
-Diagramas
-Casos de teste
-Código-fonte
-Designs e protótipos
+Requisitos de software,
+Revisão e validação de requisitos,
+Documentações adjacentes,
+Diagramas,
+Casos de teste,
+Código-fonte,
+Designs e protótipos.
+
 A proposta é garantir organização, controle de versões e segurança, facilitando o trabalho da equipe e assegurando o rastreamento de todas as alterações.
 
 Benefícios do repositório de artefatos
