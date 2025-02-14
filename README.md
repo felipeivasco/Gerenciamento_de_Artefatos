@@ -14,6 +14,7 @@ Designs e protótipos.
 A proposta é garantir organização, controle de versões e segurança, facilitando o trabalho da equipe e assegurando o rastreamento de todas as alterações.
 
 Benefícios do repositório de artefatos
+
 O uso de uma ferramenta de gestão de configuração traz diversas vantagens para o time de desenvolvimento:
 
 Centralização das informações: Todos os arquivos ficam armazenados em um único local, evitando perda de dados e facilitando o acesso.
