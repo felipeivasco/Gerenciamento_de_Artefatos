@@ -1,5 +1,6 @@
 # Gerenciamento_de_Artefatos
 Sobre este repositório
+
 Este repositório foi criado como parte da atividade prática sobre Gestão de Configuração em projetos de software. Seu objetivo é armazenar e gerenciar artefatos essenciais para o desenvolvimento, incluindo:
 
 Requisitos de software
